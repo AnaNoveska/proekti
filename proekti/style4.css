@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
+}
+.logo{
+    padding-top: 20px;
+    height: 110px;
+    width: 260px;
+}
+.h2{
+    padding-top: 50px;
+}
+.znaminja{
+    height: 160px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.slika{
+    height: 60px;
+    width: 110px;
+    margin: 15px;
+}
+.z1{
+    height: 120px;
+    width: 234px;
+}
+.z11{
+    height: 120px;
+    width: 350px;
+}
+.cel{
+    width: 800px;
+    text-align: center;
+}
+.posteri{
+        height: 400px;
+        width: 700px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+}
+.poster{
+    height: 300px;
+    width: 300px;
+    margin-right: 70px;
+}
+.poster1{
+    height: 400px;
+    width: 300px;
+
+}
